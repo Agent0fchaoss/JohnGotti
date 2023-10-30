@@ -5,4 +5,4 @@ build-job:
     - npm run build
   artifacts:
     paths:
-      - "build/"
+      - "/build"
